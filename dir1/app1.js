@@ -1,0 +1,1 @@
+console.log(Ricon is catching on);
